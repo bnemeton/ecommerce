@@ -2,7 +2,7 @@
 
 ## Description
 
-The backend--models, api routes, etc--for a hypothetical ecommerce platform. Uses Sequelize and MySQL 2.
+The backend--models, api routes, etc--for a hypothetical ecommerce platform. Uses Sequelize, Express, dotenv, and MySQL 2.
 
 ## Usage
 
